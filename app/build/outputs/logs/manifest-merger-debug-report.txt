@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:12:5-28:19
+MERGED from [com.android.support:design:25.1.1] /home/nithin/.android/build-cache/d23207d16f26f915b97d88a7762abe28f047cd2f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/nithin/.android/build-cache/591746798135872bf14e8888e1043fe029ee21ef/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/nithin/.android/build-cache/acd7dabd835bd9c51a7661855cd19a4aa785015b/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] /home/nithin/.android/build-cache/73100629dfe39e997403ff7731d70e7c63c2b5f1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /home/nithin/.android/build-cache/2e8e14b246e893cc46ec7c4c22dc1f808791ef8c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/nithin/.android/build-cache/c7c8a2405b12828c3e2ffeb8f3d251b9c0968765/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/nithin/.android/build-cache/c5beb5e7eef428d1894ff41b6694ec5cac927d22/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/nithin/.android/build-cache/1942a43a7dfa89abad16c6a86cb74c10aa837b3b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/nithin/.android/build-cache/f655da934bf544872844bb89b9a140b48b627fc4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/nithin/.android/build-cache/1a3ad43424f837dc316f9ea97beda1bdd8576da0/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.divya.mvp.clearchat.LoginActivity
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:20:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] /home/nithin/.android/build-cache/d23207d16f26f915b97d88a7762abe28f047cd2f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/nithin/.android/build-cache/591746798135872bf14e8888e1043fe029ee21ef/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/nithin/.android/build-cache/acd7dabd835bd9c51a7661855cd19a4aa785015b/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /home/nithin/.android/build-cache/53ad3083fe752626c4e15401ec186f53bff4c18e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] /home/nithin/.android/build-cache/73100629dfe39e997403ff7731d70e7c63c2b5f1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] /home/nithin/.android/build-cache/2e8e14b246e893cc46ec7c4c22dc1f808791ef8c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/nithin/.android/build-cache/c7c8a2405b12828c3e2ffeb8f3d251b9c0968765/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/nithin/.android/build-cache/c5beb5e7eef428d1894ff41b6694ec5cac927d22/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/nithin/.android/build-cache/1942a43a7dfa89abad16c6a86cb74c10aa837b3b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/nithin/.android/build-cache/f655da934bf544872844bb89b9a140b48b627fc4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /home/nithin/.android/build-cache/1a3ad43424f837dc316f9ea97beda1bdd8576da0/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] /home/nithin/.android/build-cache/d23207d16f26f915b97d88a7762abe28f047cd2f/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/AndroidManifest.xml

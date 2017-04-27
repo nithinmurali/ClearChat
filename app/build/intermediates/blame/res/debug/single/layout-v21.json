@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

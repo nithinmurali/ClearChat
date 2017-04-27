@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/nithin/.android/build-cache/c93f40726c8f63a3265af3c545ce90a1439db355/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

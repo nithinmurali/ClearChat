@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/drawable-mdpi/user.png",
+        "source": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/generated/res/pngs/debug/drawable-mdpi/user.png"
+    },
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/drawable-mdpi/lock.png",
+        "source": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/generated/res/pngs/debug/drawable-mdpi/lock.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/profile_icon.png",
+        "source": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/res/mipmap-xxxhdpi/profile_icon.png"
+    },
+    {
+        "merged": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

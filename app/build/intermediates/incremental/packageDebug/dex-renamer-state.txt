@@ -1,0 +1,4 @@
+#Wed Apr 19 06:01:00 IST 2017
+base.0=/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/nithin/data/dev/AndroidStudioProjects/ClearChat/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
